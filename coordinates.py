@@ -8,7 +8,7 @@ SCROLLER_BAR_UP = (1357, 106)        # for top most scroll bar location
 SCROLLER_BAR_DOWN = (1357, 693)     # for bottom most scroll bar location
 PRACTICE_BUTTON = (767, 101)        # coordinate for practice button
 PRAC_LOAD_TIME = 2         # time it takes to load the page after clicking practice button depending on the ping and speed.
-RUN_N_TIMES = 1         # how much times you want to run it
+RUN_N_TIMES = 5         # how much times you want to run it
 
 
 def click_n_times(coord, n=10):
