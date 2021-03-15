@@ -2,7 +2,7 @@
 An automated typing code in python *for educational purposes only*
 
 #Installation
-Clone the Repo
+- Clone the Repo
 
 #Required Modules
 1. Python3
