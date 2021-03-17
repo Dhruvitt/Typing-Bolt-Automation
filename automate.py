@@ -6,7 +6,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 # change the location the the exe file of tesseract.exe accordingly
 
 Typing_Bolt = (19, 209, 1300, 40)  #for ex. (x, y, a, b)
-# where x an y is the coordinate of the top left most part of the text area and a and b are the width and length distanch from that point.
+# where x an y is the coordinate of the top left most part of the text area and a and b are the width and length distance from that point.
 
 def capture(region):
     img = gui.screenshot(region=region)
