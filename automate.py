@@ -22,27 +22,24 @@ def write_text(text):
     gui.write(text, interval=.05) # interval = the time seperation between each letter in seconds
 
 
-time.sleep(3)
+time.sleep(1)
 
 gui.click(CHROME)
-time.sleep(2)
+time.sleep(1)
 
 gui.click(TYPING_WINDOW)
 time.sleep(1)
 
 for _ in range(RUN_N_TIMES):
     
-    click_n_times(SCROLLER_BAR_UP)
-    time.sleep(.25)
+    #click_n_times(SCROLLER_BAR_UP)
+    #time.sleep(.25)
 
     gui.click(PRACTICE_BUTTON)
     time.sleep(PRAC_LOAD_TIME)
 
     img = capture(Typing_Bolt)
     text = predict(img)
-
-    gui.click(KEYBOARD)
-    time.sleep(.25)
 
     write_text(text)
     time.sleep(.25)
