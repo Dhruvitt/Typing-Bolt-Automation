@@ -1,5 +1,5 @@
 #Typing Bolt Automated Typing
-An automated typing tool in python *for educational purposes only*
+An automated typing tool coded in python *for educational purposes only*
 
 #Installation
 Clone the Repo
