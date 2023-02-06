@@ -3,12 +3,12 @@ An automated typing tool coded in python *for educational purposes only*
 
 # Required Modules
 >###### Python3
->###### pip install -r requirements.txt
 >###### install exe from - https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe
 
 # Steps
 
 ```
+pip install -r requirements.txt
 python automate.py
 ```
 
