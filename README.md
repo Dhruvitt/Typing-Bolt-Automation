@@ -1,22 +1,17 @@
-# Typing Bolt Automated Typing
+# Introduction
 An automated typing tool coded in python *for educational purposes only*
 
-# Installation
-Clone the Repo
-
 # Required Modules
-> Python3
-> pip install PyAutoGUI'
-> install exe from - https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe
+> ###### Python3
+> ###### pip install PyAutoGUI'
+> ###### install exe from - https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe
 
 # Steps
 
-1. Get the Coordinates using the get_coordinates.py and put the coordinates in coordinates.py
+```
+python automate.py
 
-2. After putting the coordinates try running automate.py
+#Prerequisites
 
-3. Viola!
-
-#Prerequisites for running
-
-*** First open a typing bolt tab and then run the automate.py ***
+> ###### Get the Coordinates using the get_coordinates.py and put the coordinates in coordinates.py
+> ###### First open a typing bolt tab and then run the automate.py
