@@ -12,7 +12,7 @@ An automated typing tool coded in python *for educational purposes only*
 python automate.py
 ```
 
-#Prerequisites
+# Prerequisites
 
 > ###### Get the Coordinates using the get_coordinates.py and put the coordinates in coordinates.py
 > ###### First open a typing bolt tab and then run the automate.py
