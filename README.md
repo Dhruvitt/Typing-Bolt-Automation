@@ -9,6 +9,7 @@ An automated typing tool coded in python *for educational purposes only*
 
 ```
 pip install -r requirements.txt
+
 python automate.py
 ```
 
