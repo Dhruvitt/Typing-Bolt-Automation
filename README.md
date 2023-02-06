@@ -3,13 +3,14 @@ An automated typing tool coded in python *for educational purposes only*
 
 # Required Modules
 >######Python3
-> ######pip install PyAutoGUI'
-> ######install exe from - https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe
+>######pip install PyAutoGUI'
+>######install exe from - https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe
 
 # Steps
 
 ```
 python automate.py
+```
 
 #Prerequisites
 
